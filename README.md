@@ -1,5 +1,8 @@
 # 👩‍⚖️ Predicting Legislative Bill Outcomes Using Machine Learning and LLM
 
+**2024 K-DS Hackerthon, Korea Data Science Consortium**  
+*3rd Place - 2024년 11월*
+
 **Team Bill Gates**  
 *Members: Minseok Kwon, Jongrak Jeong, Ji-won Bae, Ha-yeon Jeong*  
 
@@ -127,6 +130,9 @@ This project aims to analyze and predict the outcomes of legislative bills in th
 
 ---
 # 👩‍⚖️ 국회 법률안 가결 예측 - 정치·사회적 변수 기반 분석과 LLM 기반 해설
+
+**2024 K-DS 해커톤, K-DS 컨소시엄**  
+*한국지능정보사회진흥원장상 - 2024년 11월*
 
 **Team Bill Gates**  
 *팀원: 권민석, 정종락, 배지원, 정하연*  
